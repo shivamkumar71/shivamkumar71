@@ -12,6 +12,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=shivamkumar71&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumar71&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📅 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkumar71&bg_color=0d1117&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shivamkumar71&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
@@ -21,7 +28,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shivamkumar71&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=shivamkumar71&icon=0&color=0)](https://visitcount.itsvg.in)
+# 👀 Profile Views
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=shivamkumar71&icon=5&color=6"/>
+</p>
+
+
+<h3 align="center">🚀 Building the future with AI</h3>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
