@@ -107,28 +107,6 @@ Smart weighing-instrument tampering detection system built for SIH.
 
 ---
 
-## Contribution Graph
-
-<div align="center">
-
-<a href="https://github.com/shivamkumar71">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkumar71&theme=github-compact&hide_border=true" alt="GitHub contribution graph">
-</a>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivamkumar71&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub trophies">
-</a>
-
-</div>
-
 ---
 
 ## Open Source
