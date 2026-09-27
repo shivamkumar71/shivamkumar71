@@ -17,26 +17,25 @@ Building practical AI systems, experimenting with intelligent products, and lear
 
 ---
 
-## About
+## About Me
 
-```python
-shivam = {
-    "focus": ["AI / ML", "Deep Learning", "Applied AI"],
-    "build": ["TruthLens", "AI-powered products", "Developer tools"],
-    "stack": ["Python", "C++", "TypeScript", "React", "FastAPI", "PyTorch", "MongoDB"],
-    "currently_learning": ["Advanced ML", "MLOps", "Systems"],
-    "open_to": ["Open Source", "Research", "Collaborations"],
-}
-```
+I'm a **Computer Science student specializing in AI/ML** with a strong interest in building practical, research-driven software systems.
 
-I like turning ideas into working products — from the model and backend to the interface and deployment.
+My work sits at the intersection of **machine learning, software engineering, and product development**. I enjoy taking an idea from an initial concept to a working system — designing the workflow, building the model or backend, creating the interface, and deploying the product.
 
-### Current Focus
+### What I Work On
 
-- Building and improving **AI-powered applications**
-- Exploring **machine learning, computer vision and intelligent systems**
-- Contributing to **open source** and real-world projects
-- Learning through consistent building, debugging and shipping
+- 🤖 **AI / ML** — machine learning, deep learning, computer vision and applied AI
+- 🧩 **Software Engineering** — Python, C++, TypeScript, React, backend systems and APIs
+- 🔬 **Research & Experimentation** — exploring AI applications and turning technical ideas into reproducible projects
+- 🚀 **Product Building** — developing useful AI-powered products such as **TruthLens**
+- 🌐 **Open Source** — learning, contributing and collaborating on real-world projects
+
+### Current Direction
+
+I'm currently focused on strengthening my foundations in **machine learning, advanced deep learning, MLOps and systems**, while continuing to build projects that solve concrete problems.
+
+> **Build with purpose. Learn deeply. Ship consistently.**
 
 ---
 
