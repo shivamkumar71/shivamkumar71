@@ -92,10 +92,16 @@ Smart weighing-instrument tampering detection system built for SIH.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivamkumar71&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="GitHub stats">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkumar71&hide_border=true&theme=transparent" alt="GitHub streak">
+<a href="https://github.com/shivamkumar71">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=shivamkumar71&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics">
+</a>
+<a href="https://github.com/shivamkumar71">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/streak?username=shivamkumar71&hide_border=true&theme=transparent" alt="GitHub streak">
+</a>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumar71&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages">
+<a href="https://github.com/shivamkumar71">
+  <img width="42%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shivamkumar71&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages">
+</a>
 
 </div>
 
@@ -105,7 +111,9 @@ Smart weighing-instrument tampering detection system built for SIH.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkumar71&hide_border=true&theme=github-compact" alt="Contribution graph">
+<a href="https://github.com/shivamkumar71">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkumar71&theme=github-compact&hide_border=true" alt="GitHub contribution graph">
+</a>
 
 </div>
 
@@ -115,8 +123,10 @@ Smart weighing-instrument tampering detection system built for SIH.
 
 I enjoy contributing to projects where I can learn, solve real problems and improve developer workflows.
 
-[![GitHub followers](https://img.shields.io/github/followers/shivamkumar71?style=flat-square&label=Followers)](https://github.com/shivamkumar71?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/shivamkumar71?style=flat-square&label=Stars)](https://github.com/shivamkumar71?tab=repositories)
+<p>
+  <a href="https://github.com/shivamkumar71?tab=followers"><img src="https://img.shields.io/github/followers/shivamkumar71?style=flat-square&label=Followers&logo=github" alt="GitHub followers"></a>
+  <a href="https://github.com/shivamkumar71?tab=repositories"><img src="https://img.shields.io/github/stars/shivamkumar71?style=flat-square&label=Repository%20Stars&logo=github" alt="GitHub stars"></a>
+</p>
 
 ---
 
@@ -124,11 +134,21 @@ I enjoy contributing to projects where I can learn, solve real problems and impr
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/shivamkumar-ai">LinkedIn</a> ·
-<a href="mailto:deepkumar14379@gmail.com">Email</a> ·
-<a href="https://youtube.com/@shivammotivation71">YouTube</a> ·
-<a href="https://www.instagram.com/shivam.k_45">Instagram</a> ·
-<a href="https://www.reddit.com/u/Sivam7780">Reddit</a>
+<a href="https://www.linkedin.com/in/shivamkumar-ai">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:deepkumar14379@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://youtube.com/@shivammotivation71">
+  <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+<a href="https://www.instagram.com/shivam.k_45">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.reddit.com/u/Sivam7780">
+  <img src="https://img.shields.io/badge/Reddit-Profile-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
+</a>
 
 </div>
 
