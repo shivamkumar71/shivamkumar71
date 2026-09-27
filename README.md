@@ -96,7 +96,7 @@ Smart weighing-instrument tampering detection system built for SIH.
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=shivamkumar71&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics">
 </a>
 <a href="https://github.com/shivamkumar71">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/streak?username=shivamkumar71&hide_border=true&theme=transparent" alt="GitHub streak">
+  <img width="49%" src="https://streak-stats.demolab.com?user=shivamkumar71&hide_border=true&theme=github-dark-blue&short_numbers=true" alt="GitHub streak">
 </a>
 
 <a href="https://github.com/shivamkumar71">
@@ -113,6 +113,18 @@ Smart weighing-instrument tampering detection system built for SIH.
 
 <a href="https://github.com/shivamkumar71">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkumar71&theme=github-compact&hide_border=true" alt="GitHub contribution graph">
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivamkumar71&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub trophies">
 </a>
 
 </div>
